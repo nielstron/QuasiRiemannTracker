@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "result_id": "detector-affine-c0125154",
+  "theta_exact": "437423/500000",
+  "verified_at": "2026-10-15T03:53:47.992181+00:00",
+  "source_repository": "GTimG/QuasiRiemannTracker",
+  "source_commit": "67edfb7a1161008b37ff32aadec35cecaa711731",
+  "kernels": [
+    "Lean default",
+    "nanoda",
+    "con-ron"
+  ],
+  "report_url": "https://github.com/GTimG/QuasiRiemannTracker/actions/runs/38666433500/attempts/1",
+  "report_sha256": "9badad0eb5fd2d38008bb031f94223390e0b8001c5afb033958d30165d561f5b"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "result_id": "gao-asymmetric-reserves-20261013",
+  "theta_exact": "8748673/10000000",
+  "verified_at": "2026-10-13T18:43:50.342009+00:00",
+  "source_repository": "GTimG/QuasiRiemannTracker",
+  "source_commit": "82da425c8f8da008de063eaebe1c8d33e9c33f21",
+  "kernels": [
+    "Lean default",
+    "nanoda",
+    "con-ron"
+  ],
+  "report_url": "https://github.com/GTimG/QuasiRiemannTracker/actions/runs/38426236453/attempts/1",
+  "report_sha256": "4e0ee4993d50964f999e8b1c87a8d0ef8228ba867c60169c1efada8bf246ed9e"
+}

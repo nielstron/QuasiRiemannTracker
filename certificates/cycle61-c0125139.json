@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "result_id": "cycle61-c0125139",
+  "theta_exact": "874861/1000000",
+  "verified_at": "2026-10-13T18:43:23.391812+00:00",
+  "source_repository": "GTimG/QuasiRiemannTracker",
+  "source_commit": "fb6d4fd11aeaff0b37dd96bad3b274ce28a5c08b",
+  "kernels": [
+    "Lean default",
+    "nanoda",
+    "con-ron"
+  ],
+  "report_url": "https://github.com/GTimG/QuasiRiemannTracker/actions/runs/38434626063/attempts/1",
+  "report_sha256": "bec05aa1b54ca734c37d4817136321813e5848b68941323a18841575e3b52787"
+}
